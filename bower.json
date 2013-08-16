@@ -1,5 +1,5 @@
 {
-  "name": "YUI 3",
+  "name": "yui3",
   "version": "3.11.0",
   "main": "yui.js",
   "ignore": [
